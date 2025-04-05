@@ -20,7 +20,8 @@ Undergraduate in Computer Science and Engineering (CSE-AI) eager to apply academ
 - **B.Tech - CSE(AI)**
 - **CGPA:**  
   - **1st Semester:** 8.57  
-  - **2nd Semester:** 9.27  
+  - **2nd Semester:** 9.27
+  - **3rd Semester:** 9.29
 
 ---
 
@@ -41,9 +42,8 @@ Undergraduate in Computer Science and Engineering (CSE-AI) eager to apply academ
 #### **Tools & Technologies**
 - OpenCV, TensorFlow, PyTorch, scikit-learn
 - Flask, Django, Spring Boot
-- Git, Docker, Linux, VS Code
-- Google Cloud, AWS (Basic)
-
+- Git, Docker,VS Code
+- Google Cloud
 ---
 
 ### **PROJECTS**
